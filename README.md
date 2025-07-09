@@ -6,7 +6,7 @@ A front-end clone of the Netflix homepage built using just **HTML** and **CSS**.
 
 ## 🔗 Live Demo
 
-👉 [View Site](https://rishabhpandey30.github.io/netflix-clone/)  
+👉 [View Site](https://rishabhpandey30.github.io/Netflix_Clone/)  
 
 ---
 
